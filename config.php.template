@@ -1,0 +1,5 @@
+<?php
+define('USER', 'USER');
+define('PASSWORD', 'PASS');
+define('DATABASE', 'DATABASE');
+define('SERVER', 'HOST');
